@@ -1,7 +1,7 @@
 # assignment
 
 A simple flutter project that uses Google maps API that shows the coordinates of your current location on the map.
-
+Tap on the location marker to display your current coordinates 
 Uses google_maps_flutter and location 4.3.0 packages.
 
 ## Getting Started
