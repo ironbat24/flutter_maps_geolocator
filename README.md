@@ -4,7 +4,6 @@ A simple flutter project that uses Google maps API that shows the coordinates of
 
 Uses google_maps_flutter and location 4.3.0 packages.
 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
